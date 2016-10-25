@@ -1,0 +1,17 @@
+.container {
+  width: auto;
+  max-width: 900px;
+  padding: 0 15px;
+}
+
+#logo { height: 100vh; }
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+img {
+    vertical-align: middle;
+}

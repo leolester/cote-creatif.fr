@@ -6,12 +6,31 @@
 
 #logo { height: 100vh; }
 
-.helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
+.atelier-header {
+    margin-bottom: 0px;
 }
 
-img {
-    vertical-align: middle;
+.atelier-leader {
+    margin-top: 5px;
+}
+
+.atelier-time {
+    font-weight: 500;
+}
+
+.atelier-cost {
+    font-style: italic;
+}
+
+.atelier {
+    padding-top: 15px;
+}
+
+section.body {
+    margin-bottom: 60px;
+}
+
+.social img {
+    width: 50px;
+    margin-bottom: 20px;
 }
